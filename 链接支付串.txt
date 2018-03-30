@@ -1,0 +1,5 @@
+{jql: fixversion=137663,fields:[id,key,summary,duedate,customfield_10000,timeoriginalestimate,assignee,timespent,status]}
+{"jql": "fixversion=137663","fields":["id","key","summary","duedate","customfield_10000","timeoriginalestimate","assignee","timespent","status"]}
+
+
+ http://cp4.mgmt.ctripcorp.com/rest/version/1.0/versioninfo/id/
